@@ -1,4 +1,4 @@
-Architectures: appletvos-arm
+Architectures: appletvos-arm64
 Codename: fcahnito
 Components: main
 Date: Wed, 01 Jan 2020 23:58:30 +0000
